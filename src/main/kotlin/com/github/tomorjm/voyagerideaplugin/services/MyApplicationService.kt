@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tomorjm.voyagerideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tomorjm.voyagerideaplugin.MyBundle
 
 class MyApplicationService {
 
